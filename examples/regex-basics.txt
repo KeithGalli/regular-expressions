@@ -1,0 +1,8 @@
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+0123456789
+
+ace    bad    cat    dry    eve
+away   bent   crow   dove   ends
+attic  brand  crypt  dried  event
+annoys baller camera diving ethics
