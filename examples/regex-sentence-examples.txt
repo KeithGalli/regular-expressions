@@ -1,11 +1,13 @@
 ~`!@#$%^&*()-_+=<>,./?;:'"[{
+0123456789
 
 In the future:
 
-1. your toaster will be smarter than you.
-2. Robots will take over the world, but they'll do it in style.
-3. Augmented reality will let you pet virtual unicorns in your living room.
-4. Quantum computing will allow you to calculate the meaning of life in seconds.
-5. Blockchain will make your online shopping experience more secure than Fort Knox.
-6. Cybersecurity will be so advanced, hackers will have to resort to using actual swords.
-7. In the future, we'll all communicate through a universal language made up entirely of emojis.
+your toaster will be smarter than you.
+Robots will take over the world, but they'll do it in style.
+Augmented reality will let you pet virtual unicorns in your living room.
+Quantum computing will allow you to calculate the meaning of life in seconds.
+Blockchain will make your online shopping experience more secure than Fort Knox.
+Cybersecurity will be so advanced, hackers will have to resort to using actual swords.
+In the future, we'll all communicate through a universal language made up entirely of emojis.
+
