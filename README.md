@@ -19,3 +19,4 @@ Here are some resources I find useful when learning regular expressions:
 - [Regex cheat sheet](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)
 - [Regex golf practice exercises](https://alf.nu/RegexGolf)
 - [Interactive learning walkthrough](https://regexlearn.com/)
+- [Lookaheads & Lookbehinds Info](https://javascript.info/regexp-lookahead-lookbehind)
